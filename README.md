@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nodejs and React**
 
-- 👯 I’m looking to collaborate on [React Responsive Carousel](https://github.com/leandrowd/react-responsive-carousel)
+- 👯 I’m looking to collaborate on [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
 
 - 📫 How to reach me **renancleyson.f@gmail.com**
 
