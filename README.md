@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Renan Cleyson</h1>
-<h3 align="center">A software engineering student and open source contributor.</h3>
+<h3 align="center">A fullstack developer and open source contributor.</h3>
 
 - 🌱 I’m currently learning **Nodejs and React**
 
