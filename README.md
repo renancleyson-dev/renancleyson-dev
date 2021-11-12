@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nodejs and React**
 
-- 👯 I’m looking to collaborate on [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
+- 👯 I’m looking to collaborate on [Element](https://github.com/vector-im/element-web)
 
 - 📫 How to reach me **renancleyson.f@gmail.com**
 
