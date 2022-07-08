@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Renan Cleyson</h1>
 <h3 align="center">A fullstack developer and open source contributor.</h3>
 
-- 🌱 I’m currently learning **Nodejs**
-
-- 👯 I’m looking to collaborate on [Element](https://github.com/vector-im/element-web)
-
 - 📫 How to reach me **renancleyson.f@gmail.com**
 
 <h2 align="center">Languages and Tools:</h2>
